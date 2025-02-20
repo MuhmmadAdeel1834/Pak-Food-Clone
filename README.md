@@ -1,8 +1,6 @@
-# React + Vite
+FoodPanda Clone Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a FoodPanda Clone that allows users to order food online from various restaurants. It provides an easy-to-use interface for customers to browse menus, place orders, and track deliveries in real time.
+ ![image alt](https://github.com/MuhmmadAdeel1834/Pak-Food-Clone/blob/af851921983ccbf0745349c574be371ecf9c702a/food02.PNG)
